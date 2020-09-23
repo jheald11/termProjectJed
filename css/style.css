@@ -1,4 +1,15 @@
 /*CSS styles for term project by JedHeald */
 
-body {background-color: aqua;}
-header{color: aqua;}
+body {background-color: #70FFFA;}
+header{color: #000001;}
+h1{padding-top: 1rem;
+font-size: 3rem;}
+img {border: 5px solid #555;}
+p {border-left-width: thick;
+   border-left-style: solid;
+   border-left-color: crimson;
+color: #FC9CF9;}
+p0{color: #FC9CF9;}
+a {color: crimson;}
+
+
